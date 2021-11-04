@@ -14,6 +14,12 @@ In this follow-along, we are exploring the foundation needs to create a webpage.
 
 This webpage was created with only HTML and CSS withoout any additional frameworks.
 
+See the original here: [codesandbox link](https://codesandbox.io/s/github/muhdarifrawi/20211023_HTML_workshop_outcome)
+
+See the webpage fullscreen: [App Enlarged](https://pfi99.csb.app/)
+
+Go to the Github source: [Github link](https://github.com/muhdarifrawi/20211023_HTML_workshop_outcome)
+
 ## Codes Used
 
 ### Headers
